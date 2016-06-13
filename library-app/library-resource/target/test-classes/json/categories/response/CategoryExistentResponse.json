@@ -1,0 +1,4 @@
+{
+	"errorCode": "category.existent",
+	"errorDescription": "There is already an category for given name"
+}	

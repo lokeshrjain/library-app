@@ -1,0 +1,6 @@
+com\library\app\commontest\util\DBCommand.class
+com\library\app\category\repository\CategoryRepositoryUTest.class
+com\library\app\category\service\CategoryServicesUTest.class
+com\library\app\commontest\category\CategoryForTestsRepository.class
+com\library\app\commontest\util\TestPersistenceEJB.class
+com\library\app\commontest\util\DBCommandTransactionalExecutor.class
